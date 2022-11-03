@@ -1,5 +1,5 @@
 
-/2D_rigging_game/[Ll]ibrary/
+/2D_rigging_game/Library/
 /2D_rigging_game/[Tt]emp/
 /2D_rigging_game/[Oo]bj/
 /2D_rigging_game/[Bb]uild/
