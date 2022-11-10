@@ -1,5 +1,5 @@
 {
-    "name": "PlayerMove",
+    "name": "PlayerLobbyMove",
     "maps": [
         {
             "name": "LobbyMove",
@@ -17,7 +17,7 @@
             ],
             "bindings": [
                 {
-                    "name": "AD",
+                    "name": "WASD",
                     "id": "cb8186d3-150d-4428-847f-0d8d75f3e655",
                     "path": "2DVector",
                     "interactions": "",
